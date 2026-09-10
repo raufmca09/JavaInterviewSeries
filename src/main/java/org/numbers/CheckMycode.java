@@ -9,7 +9,7 @@ public class CheckMycode {
 
         System.out.println("My First Line");
 
-        System.out.println("Is 13 prime ? " + isPrime(13));
+        System.out.println("Is 91 prime ? " + isPrime(91));
         System.out.println(" 121 is palindrom number " + isPalindrom(121));
 
         int arr[] = {4,2,6,7,2,4,9,8,4,6,9,7};
